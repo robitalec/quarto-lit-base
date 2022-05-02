@@ -67,14 +67,7 @@
     "href": "index.html",
     "title": "Introduction",
     "section": "",
-    "text": "Template literature base using quarto.\nIt is structured as a website since quarto books require the chapters to be explicitly listed in the _quarto.yml which doesn’t gel super well with this type of quickly growing literature base. Each file represents a paper, or a topic, or a book, and listing each as a chapter is a too cumbersome.\nListing pages are used to show all the pages within the subdirectories, easily searched or filtered in the tables."
-  },
-  {
-    "objectID": "index.html#todo",
-    "href": "index.html#todo",
-    "title": "Introduction",
-    "section": "TODO",
-    "text": "TODO\n\nList subfolder or path in listing pages?\nNetworks"
+    "text": "Template literature base using quarto.\nIt is structured as a website since quarto books require the chapters to be explicitly listed in the _quarto.yml which doesn’t gel super well with this type of quickly growing literature base. Each file represents a paper, or a topic, or a book, and listing each as a chapter is too cumbersome.\nListing pages are used to show all the pages within the subdirectories, easily searched or sorted."
   },
   {
     "objectID": "index.html#usage",
@@ -89,6 +82,13 @@
     "title": "Introduction",
     "section": "Resources",
     "text": "Resources\n\nQuarto websites\n\nListing pages\n\nQuarto GitHub Actions"
+  },
+  {
+    "objectID": "index.html#todo",
+    "href": "index.html#todo",
+    "title": "Introduction",
+    "section": "TODO",
+    "text": "TODO\n\nList subfolder or path in listing pages?\nNetworks"
   },
   {
     "objectID": "index.html#recently-modified-pages",
